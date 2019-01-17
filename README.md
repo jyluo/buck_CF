@@ -1,14 +1,14 @@
 Sample project for testing CF using facebook buck build system
 
-# Requisites:
+## Requisites
 https://github.com/facebook/buck
 
 https://github.com/typetools/checker-framework
 
-# Frequent commands
+## Frequent Commands
 
-## build:
+### build:
 buck build //:hello
 
-## clean:
+### clean:
 buck clean
